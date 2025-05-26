@@ -127,5 +127,3 @@ Replace `your-username` and `your-repo` with your GitHub username and repository
 ---
 
 If you want to automate build and deployment on GitHub using GitHub Actions, please let me know.
-
-npm run dev
