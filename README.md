@@ -22,7 +22,9 @@ README.md           # Project documentation
 
 ## Author
 
-This project was delivered by morningstarxcdcode.
+morningstarxcdcode
+its me of course, who else can?
+
 
 ## Getting Started
 
